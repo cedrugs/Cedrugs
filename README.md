@@ -74,7 +74,6 @@ Always excited to build cool things with cooler people!
 - [`GiziTrack`](https://github.com/Cedrugs/gizitrack) - User-friendly application for GiziTrack webapp, offering intuitive navigation, real-time notifications, and an interactive dashboard for tracking meal delivery.
 - [`ytdlder`](https://github.com/Cedrugs/ytdlder) - Lightweight & open-source YouTube video downloader.
 - [`streakinator`](https://github.com/Cedrugs/streakinator) - A simple, interactive Go utility that creates backdated, empty Git commits to populate your GitHub contribution graph.
-- [`growagarden-honey-crafting-tracker`](https://github.com/Cedrugs/growagarden-honey-crafting-tracker) - A web application to help players track their plant cycles and honey production in the game Grow a Garden
 - [`embeddy`](https://github.com/cedrugs/embeddy) - A self-hosted, high-performance microservice for generating text embeddings using state-of-the-art sentence-transformer models
 - [`Chatguard`](https://github.com/cedrugs/Chatguard-API) - Toxic language detection using a fine‑tuned XLM‑RoBERTa model hosted on Hugging Face Hub. Modular, type‑safe, and deployable on CPU or GPU.
 
