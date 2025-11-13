@@ -75,6 +75,7 @@ Always excited to build cool things with cooler people!
 - [`ytdlder`](https://github.com/Cedrugs/ytdlder) - Lightweight & open-source YouTube video downloader.
 - [`streakinator`](https://github.com/Cedrugs/streakinator) - A simple, interactive Go utility that creates backdated, empty Git commits to populate your GitHub contribution graph.
 - [`growagarden-honey-crafting-tracker`](https://github.com/Cedrugs/growagarden-honey-crafting-tracker) - A web application to help players track their plant cycles and honey production in the game Grow a Garden
+- [`embeddy`](https://github.com/cedrugs/embeddy) - A self-hosted, high-performance microservice for generating text embeddings using state-of-the-art sentence-transformer models
 
 # Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-cedric)
