@@ -8,7 +8,7 @@ I’m a 20-year-old fullstack developer and second-year Computer Science student
 What I do:
 - Build fullstack apps using Next.js, React, PostgreSQL, and Prisma
 - Automate workflows with CI/CD pipelines, and containerize projects with Docker
-- Handle deployment like a champ — from VPS to DevOps best practices 🔧🔥
+- Handle deployment like a champ — from VPS to DevOps best practices
 - Develop tools like YouTube downloaders, GitHub streak injectors, and other useful things!
 - Craft AI-powered bots and scripts using Python, OpenAI, and other wild APIs
 
@@ -73,8 +73,8 @@ Always excited to build cool things with cooler people!
 - [`SAD Automated Invoice`](https://github.com/Cedrugs/sad-automated-invoice) -  Real time automated invoice, sent based to Google Form's respondent
 - [`GiziTrack`](https://github.com/Cedrugs/gizitrack) - User-friendly application for GiziTrack webapp, offering intuitive navigation, real-time notifications, and an interactive dashboard for tracking meal delivery.
 - [`ytdlder`](https://github.com/Cedrugs/ytdlder) - Lightweight & open-source YouTube video downloader.
-- [`streakinator`](https://github.com/Cedrugs/streakinator) - A simple, interactive Go utility that creates backdated, empty Git commits to populate your GitHub contribution graph.
-- [`embeddy`](https://github.com/cedrugs/embeddy) - A self-hosted, high-performance microservice for generating text embeddings using state-of-the-art sentence-transformer models
+- [`streakinator`](https://github.com/Cedrugs/streakinator) - simple, interactive Go utility that creates backdated, empty Git commits to populate your GitHub contribution graph.
+- [`embeddy`](https://github.com/cedrugs/embeddy) - lightweight, embeddings-only model runtime with CLI and HTTP API. Built in Rust for performance and efficiency, embeddy allows you to download, manage, and run text embedding models from HuggingFace without heavy dependencies.
 - [`Chatguard`](https://github.com/cedrugs/Chatguard-API) - Toxic language detection using a fine‑tuned XLM‑RoBERTa model hosted on Hugging Face Hub. Modular, type‑safe, and deployable on CPU or GPU.
 
 # Connect with Me
