@@ -76,6 +76,7 @@ Always excited to build cool things with cooler people!
 - [`streakinator`](https://github.com/Cedrugs/streakinator) - simple, interactive Go utility that creates backdated, empty Git commits to populate your GitHub contribution graph.
 - [`embeddy`](https://github.com/cedrugs/embeddy) - lightweight, embeddings-only model runtime with CLI and HTTP API. Built in Rust for performance and efficiency, embeddy allows you to download, manage, and run text embedding models from HuggingFace without heavy dependencies.
 - [`Chatguard`](https://github.com/cedrugs/Chatguard-API) - Toxic language detection using a fine‑tuned XLM‑RoBERTa model hosted on Hugging Face Hub. Modular, type‑safe, and deployable on CPU or GPU.
+- [`samjourn.al`](https://github.com/cedrugs/samjourn.al) - A minimalist personal journaling web application with a dark, calm, intentional design. Built for reflections and quiet time entries with optional audio attachments.
 
 # Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-cedric)
