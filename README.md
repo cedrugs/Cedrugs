@@ -84,5 +84,5 @@ Always excited to build cool things with cooler people!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceds.sam@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&theme=vision-friendly-dark&show_icons=true&hide_border=true&bg_color=151515)
+![GitHub Streak](https://github-readme-streak-stats-vercel-pied.vercel.app/?user=Cedrugs&theme=dark&hide_border=true)
 
